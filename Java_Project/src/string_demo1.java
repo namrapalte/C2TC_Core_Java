@@ -1,8 +1,7 @@
 import java.io.*;
 	import java.lang.*;
 	 
-public class Strings_Demo1 {
-
+public class string_demo1 {
 	    public static void main(String[] args)
 	    {
 	        
@@ -17,3 +16,5 @@ public class Strings_Demo1 {
 	    }
 
 }
+
+
